@@ -1,0 +1,20 @@
+{
+    "api_config": {
+        "base_url": "https://quant.10jqka.com.cn",
+        "token": null,
+        "timeout": 30,
+        "retry_count": 3
+    },
+    "monitor_config": {
+        "interval_seconds": 60,
+        "top_n_stocks": 100,
+        "save_results": true,
+        "output_format": "both"
+    },
+    "stock_filter": {
+        "min_price": 1.0,
+        "max_price": 1000.0,
+        "min_volume": 1000,
+        "exclude_st": true
+    }
+}

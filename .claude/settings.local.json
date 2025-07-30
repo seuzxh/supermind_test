@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:quant.10jqka.com.cn)",
+      "Bash(python:*)",
+      "Bash(pip show:*)"
+    ],
+    "deny": []
+  }
+}
